@@ -1,0 +1,5 @@
+fm-bootstrap.sh live behavior against an isolated disposable home
+Installed chrome-devtools-axi version: 0.1.38
+MISSING: chrome-devtools-axi (install: npm install -g chrome-devtools-axi && chrome-devtools-axi setup hooks)
+Installed chrome-devtools-axi version: 0.1.39
+(silent)
